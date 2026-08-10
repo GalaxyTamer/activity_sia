@@ -1,18 +1,28 @@
 {
   "name": "quisel.sia",
   "version": "1.0.0",
-  "description": "Classroom activities",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "class Activities",
   "keywords": [
     "sia",
     "activity",
     "sy25-26"
   ],
-  "author": "Janeil John Quisel",
+  "homepage": "https://github.com/GalaxyTamer/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/GalaxyTamer/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalaxyTamer/activity_sia.git"
+  },
   "license": "ISC",
-  "type": "commonjs"
+  "author": "Janeil John Quisel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
-
